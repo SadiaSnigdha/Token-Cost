@@ -1,0 +1,11 @@
+{
+  "model": "qwen2.5:latest",
+  "system_prompt": "Answer accurately, helpfully, and concisely. Follow the user's requested format.",
+  "temperature": 0.0,
+  "seed": 42,
+  "max_tokens": 128,
+  "keep_alive": "10m",
+  "baseline_prompt": "x",
+  "baseline_input_tokens": 32,
+  "baseline_output_tokens": 19
+}

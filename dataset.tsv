@@ -1,0 +1,51 @@
+id	category	english	bangla
+1	question	What is the capital of Japan?	জাপানের রাজধানী কী?
+2	question	Why do leaves usually look green?	পাতাগুলো সাধারণত সবুজ দেখায় কেন?
+3	question	What is the boiling point of water at sea level?	সমুদ্রপৃষ্ঠে পানির স্ফুটনাঙ্ক কত?
+4	question	Who wrote the play Romeo and Juliet?	রোমিও অ্যান্ড জুলিয়েট নাটকটি কে লিখেছেন?
+5	question	What is the largest planet in our solar system?	আমাদের সৌরজগতের বৃহত্তম গ্রহ কোনটি?
+6	question	What does the word "generous" mean?	"Generous" শব্দটির অর্থ কী?
+7	question	Why is sleep important for people?	মানুষের জন্য ঘুম গুরুত্বপূর্ণ কেন?
+8	question	How many sides does a hexagon have?	একটি ষড়ভুজের কয়টি বাহু আছে?
+9	instruction	List three practical ways to save electricity at home.	বাড়িতে বিদ্যুৎ সাশ্রয়ের তিনটি ব্যবহারিক উপায় তালিকাভুক্ত করো।
+10	instruction	Write a polite two-sentence email asking to reschedule a meeting.	একটি সভার সময় পরিবর্তনের অনুরোধ জানিয়ে ভদ্র দুই বাক্যের ইমেল লেখো।
+11	instruction	Give me five tips for keeping a bicycle in good condition.	সাইকেল ভালো অবস্থায় রাখার পাঁচটি পরামর্শ দাও।
+12	instruction	Explain how to make a cup of tea in four short steps.	চারটি সংক্ষিপ্ত ধাপে এক কাপ চা বানানোর পদ্ধতি ব্যাখ্যা করো।
+13	instruction	Create a simple packing list for a one-day picnic.	এক দিনের পিকনিকের জন্য একটি সহজ প্যাকিং তালিকা তৈরি করো।
+14	instruction	Rewrite this sentence in a more formal style: "Can you send it soon?"	এই বাক্যটি আরও আনুষ্ঠানিক ভঙ্গিতে লেখো: "তুমি কি এটি শিগগির পাঠাতে পারবে?"
+15	instruction	Suggest a clear title for an article about urban gardening.	শহুরে বাগান করা নিয়ে একটি নিবন্ধের জন্য স্পষ্ট একটি শিরোনাম প্রস্তাব করো।
+16	instruction	Describe two safe habits for using public Wi-Fi.	পাবলিক ওয়াই-ফাই ব্যবহারের দুটি নিরাপদ অভ্যাস বর্ণনা করো।
+17	short_explanation	In one sentence, explain what a library is.	একটি বাক্যে লাইব্রেরি কী তা ব্যাখ্যা করো।
+18	short_explanation	Briefly explain why metal feels colder than wood in the same room.	একই ঘরে কাঠের চেয়ে ধাতু ঠান্ডা লাগে কেন, সংক্ষেপে ব্যাখ্যা করো।
+19	short_explanation	Explain the difference between weather and climate in two sentences.	দুই বাক্যে আবহাওয়া ও জলবায়ুর পার্থক্য ব্যাখ্যা করো।
+20	short_explanation	What is recycling, and why is it useful?	পুনর্ব্যবহার কী এবং এটি উপকারী কেন?
+21	short_explanation	Explain photosynthesis for a young student using simple words.	সহজ শব্দ ব্যবহার করে একজন কমবয়সী শিক্ষার্থীর জন্য সালোকসংশ্লেষণ ব্যাখ্যা করো।
+22	short_explanation	Briefly describe how a search engine finds a webpage.	একটি সার্চ ইঞ্জিন কীভাবে একটি ওয়েবপেজ খুঁজে পায়, সংক্ষেপে বর্ণনা করো।
+23	short_explanation	Explain in one or two sentences why bridges have support structures.	সেতুতে সহায়ক কাঠামো থাকে কেন, এক বা দুই বাক্যে ব্যাখ্যা করো।
+24	short_explanation	Define evaporation and give one everyday example.	বাষ্পীভবনের সংজ্ঞা দাও এবং দৈনন্দিন জীবনের একটি উদাহরণ দাও।
+25	arithmetic	What is 17 plus 28?	১৭ যোগ ২৮ কত?
+26	arithmetic	Calculate 9 times 7.	৯ গুণ ৭ হিসাব করো।
+27	arithmetic	What is 144 divided by 12?	১৪৪ ভাগ ১২ কত?
+28	arithmetic	A notebook costs 35 taka. How much do three notebooks cost?	একটি নোটবুকের দাম ৩৫ টাকা। তিনটি নোটবুকের দাম কত?
+29	arithmetic	Subtract 46 from 100.	১০০ থেকে ৪৬ বিয়োগ করো।
+30	arithmetic	What is 15 percent of 200?	২০০-এর ১৫ শতাংশ কত?
+31	arithmetic	A train travels 60 kilometers in one hour. How far does it travel in three hours at the same speed?	একটি ট্রেন এক ঘণ্টায় ৬০ কিলোমিটার যায়। একই গতিতে তিন ঘণ্টায় এটি কত দূর যাবে?
+32	arithmetic	Find the average of 6, 10, and 14.	৬, ১০ এবং ১৪-এর গড় বের করো।
+33	summarising	Summarise this sentence in five words: "The small dog chased the red ball across the garden."	এই বাক্যটি পাঁচটি শব্দে সংক্ষেপ করো: "ছোট কুকুরটি বাগানজুড়ে লাল বলটির পেছনে ছুটল।"
+34	summarising	Summarise this sentence: "Mina missed the bus, so she walked to school in the rain."	এই বাক্যটি সংক্ষেপ করো: "মিনা বাস মিস করেছিল, তাই বৃষ্টির মধ্যে হেঁটে স্কুলে গিয়েছিল।"
+35	summarising	Give a short summary of this sentence: "The chef prepared a fresh meal with vegetables from the local market."	এই বাক্যটির সংক্ষিপ্ত সারাংশ দাও: "রাঁধুনি স্থানীয় বাজারের সবজি দিয়ে একটি তাজা খাবার তৈরি করলেন।"
+36	summarising	Summarise this sentence in one sentence: "After years of practice, the musician performed confidently on the crowded stage."	এই বাক্যটি এক বাক্যে সংক্ষেপ করো: "বহু বছর অনুশীলনের পর, সঙ্গীতশিল্পী ভরা মঞ্চে আত্মবিশ্বাসের সঙ্গে পরিবেশন করলেন।"
+37	summarising	Reduce this sentence to its main idea: "The community planted trees beside the river to reduce erosion and create shade."	এই বাক্যটির মূল বক্তব্যে সংক্ষিপ্ত করো: "ভাঙন কমাতে ও ছায়া তৈরি করতে সম্প্রদায়টি নদীর পাশে গাছ লাগিয়েছে।"
+38	summarising	Summarise this sentence in no more than eight words: "The old clock stopped working shortly before the family celebration began."	এই বাক্যটি আটটির বেশি শব্দ নয় এমনভাবে সংক্ষেপ করো: "পারিবারিক উদ্‌যাপন শুরুর কিছুক্ষণ আগে পুরোনো ঘড়িটি নষ্ট হয়ে গেল।"
+39	long	You are helping a student plan a science project. Suggest one testable question, name the variables, and give two safety reminders.	তুমি একজন শিক্ষার্থীকে বিজ্ঞান প্রকল্প পরিকল্পনা করতে সাহায্য করছ। একটি পরীক্ষাযোগ্য প্রশ্ন প্রস্তাব করো, চলকগুলো উল্লেখ করো এবং নিরাপত্তার দুটি কথা মনে করিয়ে দাও।
+40	long	A friend wants to start exercising but has little time. Give a realistic weekly plan, explain how to begin gently, and mention one reason to consult a professional.	একজন বন্ধু ব্যায়াম শুরু করতে চায় কিন্তু তার সময় কম। একটি বাস্তবসম্মত সাপ্তাহিক পরিকল্পনা দাও, কীভাবে ধীরে শুরু করতে হবে তা বোঝাও এবং পেশাদারের সঙ্গে পরামর্শের একটি কারণ বলো।
+41	long	Explain to a new learner what a password manager does. Include two benefits and one basic caution, using friendly language.	নতুন একজন শিক্ষার্থীকে বোঝাও পাসওয়ার্ড ম্যানেজার কী করে। বন্ধুত্বপূর্ণ ভাষায় দুটি সুবিধা এবং একটি প্রাথমিক সতর্কতা উল্লেখ করো।
+42	long	Read the following situation and suggest a fair response: Two teammates disagree about who should present their work. Give a short reason for your suggestion.	নিচের পরিস্থিতিটি পড়ে একটি ন্যায্য প্রতিক্রিয়া প্রস্তাব করো: দুই সতীর্থ তাদের কাজ কে উপস্থাপন করবে তা নিয়ে দ্বিমত পোষণ করছে। তোমার পরামর্শের একটি সংক্ষিপ্ত কারণ দাও।
+43	long	Describe how to prepare for a rainy-day trip. Mention clothing, transport, and one way to protect an electronic device.	বৃষ্টির দিনের ভ্রমণের প্রস্তুতি কীভাবে নিতে হবে তা বর্ণনা করো। পোশাক, যাতায়াত এবং একটি ইলেকট্রনিক যন্ত্র রক্ষার একটি উপায় উল্লেখ করো।
+44	long	Explain why checking a source matters before sharing a claim online. Give a simple three-step check that a teenager can follow.	অনলাইনে কোনো দাবি শেয়ার করার আগে উৎস যাচাই করা গুরুত্বপূর্ণ কেন তা ব্যাখ্যা করো। একজন কিশোর অনুসরণ করতে পারে এমন একটি সহজ তিন ধাপের যাচাই দাও।
+45	long	Write a short plan for reducing food waste in a household. Include shopping, storage, and leftovers, and keep the plan practical.	একটি পরিবারের খাবারের অপচয় কমানোর জন্য একটি সংক্ষিপ্ত পরিকল্পনা লেখো। কেনাকাটা, সংরক্ষণ এবং অবশিষ্ট খাবার অন্তর্ভুক্ত করো, এবং পরিকল্পনাটি ব্যবহারিক রাখো।
+46	long	A town is considering a small community garden. List two benefits, one possible difficulty, and one practical first step.	একটি শহর একটি ছোট কমিউনিটি বাগান করার কথা ভাবছে। দুটি সুবিধা, একটি সম্ভাব্য অসুবিধা এবং একটি ব্যবহারিক প্রথম পদক্ষেপ তালিকাভুক্ত করো।
+47	long	Compare reading a printed book with reading on a phone. Mention one advantage and one drawback of each, then give a balanced conclusion.	মুদ্রিত বই পড়ার সঙ্গে ফোনে পড়ার তুলনা করো। প্রতিটির একটি সুবিধা ও একটি অসুবিধা উল্লেখ করো, তারপর একটি ভারসাম্যপূর্ণ উপসংহার দাও।
+48	long	Explain to a child why the Moon appears to change shape. Use a simple analogy, but do not say that the Moon actually changes shape.	একটি শিশুকে বোঝাও চাঁদের আকৃতি বদলেছে বলে কেন মনে হয়। একটি সহজ উপমা ব্যবহার করো, কিন্তু চাঁদ সত্যিই আকৃতি বদলায় এমন বলো না।
+49	long	You are organising a small workshop. Propose an agenda with an opening, two activities, a short break, and a closing. Keep it suitable for beginners.	তুমি একটি ছোট কর্মশালার আয়োজন করছ। শুরু, দুটি কার্যক্রম, একটি ছোট বিরতি এবং সমাপ্তিসহ একটি কর্মসূচি প্রস্তাব করো। এটি নতুনদের উপযোগী রাখো।
+50	long	A local river has become polluted. Suggest three actions residents can take, explain which action should come first, and note one limitation of community action.	একটি স্থানীয় নদী দূষিত হয়ে গেছে। বাসিন্দারা নিতে পারেন এমন তিনটি পদক্ষেপ প্রস্তাব করো, কোন পদক্ষেপটি আগে নেওয়া উচিত তা ব্যাখ্যা করো এবং সম্প্রদায়ের পদক্ষেপের একটি সীমাবদ্ধতা উল্লেখ করো।

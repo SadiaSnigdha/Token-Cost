@@ -1,0 +1,11 @@
+id,judgment,notes
+1,Mostly yes,"The answer identifies Tokyo correctly; the Bangla spelling is slightly nonstandard."
+9,No,"The answer is truncated and begins with an incorrect phrase about an electric bottle; it does not provide three useful methods."
+18,No,"The answer is truncated and contains incorrect or garbled reasoning instead of explaining heat conduction."
+25,Yes,"Both answers give the correct result, 45."
+33,No,"The Bangla answer is grammatical but omits the red ball and therefore loses important meaning."
+39,No,"The answer does not give a clear testable question, variables, or two safety reminders and is truncated."
+42,No,"The answer is truncated and does not clearly propose a fair presentation arrangement or give the requested reason."
+44,Partial,"The answer starts with the correct rationale and verification idea but is truncated before completing the requested three-step check."
+48,No,"The answer is truncated and gives an incorrect explanation involving the eyes rather than changing illumination and viewing angle."
+50,No,"The answer is incomplete and does not clearly provide three concrete actions, a justified first action, and a limitation."
